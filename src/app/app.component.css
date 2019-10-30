@@ -1,0 +1,36 @@
+.body {
+  padding-top: 100px;
+  height: 100%;
+  background-image: url(../assets/images/gravel.png);
+}
+
+.navbar {
+  justify-content: space-between;
+  background-color: yellow;
+  color: black;
+  border-bottom-color: black ;
+  border-bottom-style: solid;
+  position: fixed;
+  top: 0px;
+}
+
+.logo {
+  margin-top: 10px;
+}
+a {
+  padding-right: 10px;
+  color: #0A41C1;
+}
+
+footer {
+  border-top-color: black ;
+  border-top-style: solid;
+  width: 100%;
+  height: 50px;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0px;
+}
