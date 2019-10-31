@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material/material.module';
 import { MainComponent } from './main/main.component';
-import { FrontComponent } from './front/front.component';
 
 
 @NgModule({
@@ -13,7 +12,6 @@ import { FrontComponent } from './front/front.component';
     AppComponent,
     routingComponents,
     MainComponent,
-    FrontComponent
   ],
   imports: [
     BrowserModule,

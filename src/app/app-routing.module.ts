@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule} from '@angular/router';
 import {BoardComponent} from './board/board.component';
-import {AppComponent} from './app.component';
 import {GrpdComponent} from './grpd/grpd.component';
 import {MembershipComponent} from './membership/membership.component';
 import {SupportComponent} from './support/support.component';
