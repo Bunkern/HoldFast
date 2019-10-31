@@ -8,7 +8,7 @@ import {TermsComponent} from './terms/terms.component';
 import {MainComponent} from './main/main.component';
 
 const routes: Routes = [
-  {path: 'home', component: MainComponent},
+  {path: '', component: MainComponent},
   {path: 'board', component: BoardComponent},
   {path: 'grpd', component: GrpdComponent},
   {path: 'membership', component: MembershipComponent},
